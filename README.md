@@ -28,6 +28,9 @@ Technical SLA compliance is 68.75%, compared with 94.44% for Support, despite si
 - [Project Documentation](08.01_README.pdf)
 - [Power BI Dashboard](08.02_PowerBI_Dashboard.pdf)
 - [Excel Dashboard](08.03_Excel_Dashboard.pdf)
+- [Excel Workbook](08.04_Excel_Workbook.xlsx)
+- [Power BI Workbook](08.05_PowerBI_Workbook.pbix)
+- [Project Presentation](08.08_SLA_TAT_Data_Analytics_Intern_Project.pptx)
 
 ## Author
 
