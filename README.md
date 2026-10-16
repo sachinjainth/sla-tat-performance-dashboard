@@ -46,3 +46,11 @@ The dashboard report is available here:
 Data Analytics | MIS Reporting | Excel | Power Query | Power BI | SQL
 
 [GitHub Profile](https://github.com/sachinjainth) · [Portfolio](https://dub.sh/SachinPortfolio)
+
+
+## Project Files
+
+- [Project Documentation](08.01_README.pdf)
+- [Power BI Dashboard](08.02_PowerBI_Dashboard.pdf)
+- [Excel Dashboard](08.03_Excel_Dashboard.pdf)
+
